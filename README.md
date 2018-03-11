@@ -21,6 +21,9 @@ Output:
 
 ![..](https://github.com/sakethsaxena/Genetic-Algorithm-to-Morph-one-image-into-another/blob/master/final.png)
 
+
+Dependencies: `PIL`
+
 Run by:
 
 `python GA_flag_morph.py`
