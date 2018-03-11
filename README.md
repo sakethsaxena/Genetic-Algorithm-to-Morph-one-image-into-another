@@ -7,10 +7,14 @@ A genetic algorithm developed using PIL in python2.7 which takes in two images a
 An example of image morphing is as follows:
 
 input files:
+
 convert the flag of China 
+
 ![..](https://github.com/sakethsaxena/Genetic-Algorithm-to-Morph-one-image-into-another/blob/master/China.jpg)
 
+
 into the flag of Burundi
+
 ![..](https://github.com/sakethsaxena/Genetic-Algorithm-to-Morph-one-image-into-another/blob/master/Burundi.jpg)
 
 Output:
