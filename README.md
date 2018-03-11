@@ -20,3 +20,7 @@ into the flag of Burundi
 Output:
 
 ![..](https://github.com/sakethsaxena/Genetic-Algorithm-to-Morph-one-image-into-another/blob/master/final.png)
+
+Run by:
+
+`python GA_flag_morph.py`
